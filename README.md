@@ -2,5 +2,5 @@
 # Course- Information Visualisation 
 # Name - DEBDATTA SINGHA
 # Registration Number- RA2011029010056
-https://1pbcbs.csb.app/
+Assignment 2 - https://1pbcbs.csb.app/
 
